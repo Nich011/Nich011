@@ -1,5 +1,5 @@
 👋 Hey there! I'm Nich011. I'm a student in systems analysis and development 👋
-- 👀 I’m interested in Data Science, Data Analysis, Machine Learning and Automation projects.
+- 👀 I’m interested in Data Science, Analysis and Engineering, Machine Learning and Automation projects.
 - 🌱 I’m currently taking my first steps torwards building my Portfolio, so expect some cool projects around here soon!
 - 💞️ I’m looking to collaborate on entry-level and simple projects.
 - 😄 Pronouns: He/Him.
